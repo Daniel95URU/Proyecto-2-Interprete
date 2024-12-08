@@ -1,0 +1,11 @@
+x = 9 / 2
+y = 4
+z = 3.1 + (x + y) - 2 * x
+w = z ^ 2
+t = root( w + 1.4)
+print( t )
+print( 3 + 1 )
+print( w + z )
+print(y/2+4)
+x = 10000
+print(x)
